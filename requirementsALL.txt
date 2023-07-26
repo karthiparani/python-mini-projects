@@ -9,7 +9,7 @@ PyAutoGUI==0.9.50
 PyPDF2==1.27.5
 SpeechRecognition==3.8.1
 beautifulsoup4==4.9.1
-certifi==2020.6.20
+certifi==2023.7.22
 chardet==3.0.4
 chromedriver-binary==85.0.4183.38.0
 click==7.1.2
