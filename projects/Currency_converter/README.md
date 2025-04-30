@@ -18,3 +18,6 @@ A small python program that converts currency with live info
 ## *Author Name*
 <!--Remove the below lines and add yours -->
 [github-of-wone](https://github.com/github-of-wone/)
+
+## *Code reviewer*
+Karthika Paranirubasingam
