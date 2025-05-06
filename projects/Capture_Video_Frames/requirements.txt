@@ -1,1 +1,2 @@
 opencv-python==4.3.0.36
+numpy>=1.22.2 # not directly required, pinned by Snyk to avoid a vulnerability
