@@ -1,6 +1,8 @@
-jupyterlab==2.2.2
+jupyterlab==2.2.10
 matplotlib==3.3.0
-notebook==6.1.1
+notebook==6.4.12
 numpy==1.19.1
 pandas==1.1.0
 requests==2.24.0
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=1.26.5 # not directly required, pinned by Snyk to avoid a vulnerability
