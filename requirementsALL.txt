@@ -59,4 +59,4 @@ wget==3.2
 wikipedia==1.4.0
 win10toast==0.9
 wordcloud==1.8.0
-xmltodict==0.12.0
+xmltodict==0.15.0
